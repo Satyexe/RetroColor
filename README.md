@@ -57,7 +57,7 @@ retrocolor/
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/retrocolor.git
+git clone https://github.com/Satyexe/RetroColor.git
 cd retrocolor
 
 ### 2. Create a virtual environment (optional but recommended)
